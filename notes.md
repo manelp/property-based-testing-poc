@@ -14,6 +14,8 @@ In scala:
 * [ScalaCheck](https://github.com/typelevel/scalacheck/blob/main/doc/UserGuide.md)
 * [Weaver + scalacheck](https://disneystreaming.github.io/weaver-test/docs/scalacheck)
     
+Using seeds:
+* https://gist.github.com/non/aeef5824b3f681b9cfc141437b16b014
 
-
-## 
+Examples:
+* https://github.com/typelevel/cats/tree/main/laws/src/main/scala/cats/laws
